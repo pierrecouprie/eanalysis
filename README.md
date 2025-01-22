@@ -45,10 +45,11 @@ This piece of software aims at experimenting new types of graphic representation
 
 ## Downloads
 
-download Download installer of EAnalysis for Macintosh OS10.6 or later
+Download installer of EAnalysis for Macintosh OS10.6 or later
 
 If you have problem with installer, you can use the manual installer:
-download Download manual installer for EAnalysis for Macintosh OS10.6 or later
+
+Download manual installer for EAnalysis for Macintosh OS10.6 or later
 
 * Unzip the file
 * put EAnalysis.app inside Applications folder
