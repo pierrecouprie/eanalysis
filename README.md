@@ -45,11 +45,4 @@ This piece of software aims at experimenting new types of graphic representation
 
 ## Downloads
 
-Download installer of EAnalysis for Macintosh OS10.6 or later
-
-If you have problem with installer, you can use the manual installer:
-
-Download manual installer for EAnalysis for Macintosh OS10.6 or later
-
-* Unzip the file
-* put EAnalysis.app inside Applications folder
+[Download installer of EAnalysis for Macintosh OS10.6 or later](https://github.com/pierrecouprie/eanalysis/releases/tag/1.1.0)
