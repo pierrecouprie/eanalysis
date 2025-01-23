@@ -1,5 +1,7 @@
 # EAnalysis
 
+![](screenshot_01.png)
+
 EAnalysis is not compatible with macOS 10.15 Catalina. Use iAnalyse 5.
 
 * Research and development: Dr Pierre Couprie
